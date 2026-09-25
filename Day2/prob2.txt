@@ -1,0 +1,26 @@
+Problem Statement:
+
+Binita was travelling from Chennai to Delhi in Rajdhani Express. The train arrived at the destination later than the estimated time. So, Binita wants to know the total number of hours and minutes the train was delayed. Can you help Binita in finding the exact hour and time Rajdhani Express was delayed on the day of Binita's journey?
+
+Constraint:
+$100 \le \text{tot\_mins} \le 550$
+
+Input Format:
+The only line of input has a single value of variable `tot_mins` of type integer representing total minutes.
+
+Output Format:
+Print the Number of Hours and Minutes in a single line.
+
+---
+
+Test Cases:
+
+*Test Case 1*
+
+Input (STDIN): `546`
+Expected Output: `9 Hours and 6 Minutes`
+
+*Test Case 2*
+
+Input (STDIN): `101`
+Expected Output: `1 Hours and 41 Minutes`
